@@ -97,7 +97,6 @@ Real-time facial recognition authentication system with an API. **Tech:** Python
 
 ### 📜 Certifications
 
-- ☁️ AWS Certified Machine Learning Engineer – Associate *(in progress)*
 - ☁️ AWS Certified AI Practitioner
 - 🟥 Red Hat Developer – Cloud Native
 - 🟥 Red Hat Certified System Administrator (RHCSA)
