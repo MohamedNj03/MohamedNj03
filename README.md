@@ -1,119 +1,44 @@
-<h1 align="center">Hi there, I'm Mohamed Hazem Neji 👋</h1>
-<h3 align="center">Data Science & AI Engineering Student from Tunisia 🇹🇳</h3>
+<h1 align="center">Hi, I'm Mohamed Hazem Neji 👋</h1>
+<h3 align="center">Final-Year Data Science & AI Engineering Student from Tunisia 🇹🇳</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hazem-neji-b01a15310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nejimohamed892@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-hazem-neji-b01a15310/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/MohamedNj03"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:nejimohamed892@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About me
 
-- 🎓 Data Science & AI Engineering student from Tunisia
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning and Large Language Models
-- 🧠 Currently working with **RAG systems**, **AI Agents**, **LLMs** and **model fine-tuning**
-- ☁️ Learning about cloud and DevOps technologies to better understand how AI solutions move toward production
-- 🚀 I enjoy turning AI concepts into practical applications and intelligent systems
-- 📚 Always learning, experimenting and building new things in AI
+I'm a final-year engineering student who loves turning AI ideas into things people can actually use. My projects span computer vision, NLP, ML, DL, GenAI and MLOps, from gesture-controlled interfaces to full-stack ML apps deployed with Docker and MLflow. I also work on the cloud and DevOps side (AWS, Red Hat) to understand how AI projects reach production.
 
----
+I'm looking for an end-of-studies internship in AI engineering in Europe starting January 2027, so feel free to reach out!
 
-### 🧠 AI & Machine Learning
+### What I work with
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-informational?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-informational?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-informational?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-informational?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-informational?style=flat-square)
-![Fine tuning](https://img.shields.io/badge/-Fine--tuning-informational?style=flat-square)
-![RAG](https://img.shields.io/badge/-RAG-informational?style=flat-square)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-informational?style=flat-square)
+- **AI / ML:** Deep Learning, NLP, Computer Vision, LLMs, RAG, AI Agents
+- **Tools:** LangChain, Hugging Face, Ollama, MCP, MLflow, MediaPipe, OpenCV
+- **Backend & Database:** Python (FastAPI, Django), Java (Spring Boot), MongoDB, MySQL, NoSQL, PL/SQL
+- **Cloud & DevOps:** AWS, Docker, Podman, Linux, Git, CI/CD
 
-### 🤖 Generative AI & LLM
+### Projects
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- LLM Fine-tuning — QLoRA / LoRA
-- AI Agents
-- Prompt Engineering
-- Embeddings & Vector Search
-- LangChain
-- Hugging Face
-- Ollama
-- MCP
+- **AirControl (Sept. 2026):** touchless Windows control in real time with hand gestures from a webcam. MediaPipe hand tracking, gesture recognition, One Euro filter, virtual keyboard, air writing and direct system input integration. [▶️ Demo](https://www.linkedin.com/feed/update/urn:li:activity:7510397139722792960/)
+- **Magic Canvas AI (Sept. 2026):** gesture-controlled drawing with your hand as the brush, built with MediaPipe and OpenCV. [▶️ Demo](https://www.linkedin.com/feed/update/urn:li:activity:7502429708471484416/)
+- **Brain Tumor Classification & Segmentation (May 2026):** deep learning on MRI scans to classify tumors and segment tumor regions, with advanced computer vision feature extraction.
+- **Tunisian Dialect Sentiment Analysis (Apr. 2026):** sentiment classification for Arabizi using advanced NLP and a stacking ensemble.
+- **Predictive Maintenance Platform (Mar. 2026):** RUL prediction on NASA C-MAPSS turbofan engines using ML and Deep Learning on time series. End-to-end MLOps with MLflow and CI/CD, deployed as a full-stack app (FastAPI, React, Docker).
+- **AssurAI Predictor (Feb. 2026):** ML-based insurance policy recommendation for each client. XGBoost, Scikit-learn, FastAPI, MLflow, React.
+- **Facial Recognition Authentication:** real-time biometric login with OpenCV, Dlib, FastAPI and SQLite.
 
-### ☁️ Cloud, DevOps & Infrastructure
+### Certifications
 
-![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Virtualization](https://img.shields.io/badge/-Virtualization-informational?style=flat-square)
-![Cloud Computing](https://img.shields.io/badge/-Cloud%20Computing-informational?style=flat-square)
+- AWS Certified AI Practitioner
+- Red Hat Certified Specialist in Containers (EX188)
+- Red Hat Certified System Administrator (RHCSA)
+- Certified Associate in Python Programming (PCAP)
 
-### 🛠️ Backend & Databases
+### Contact
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### 📊 Data & Analytics
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-informational?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-informational?style=flat-square)
-
----
-
-### 🚀 Featured Projects
-
-**🔹 Brain Tumor Classification & Segmentation (MRI)**
-Deep learning model for brain tumor classification and tumor region segmentation from MRI scans, using advanced computer vision feature extraction techniques.
-
-**🔹 Sentiment Analysis for Tunisian Dialect (NLP)**
-Sentiment classification model for Tunisian dialect (Arabizi) built with advanced NLP techniques and a stacking ensemble model.
-
-**🔹 Predictive Maintenance Platform (End-to-End MLOps)**
-Remaining Useful Life (RUL) prediction for TurboFan engines (NASA CMAPSS dataset) using Random Forest on time-series data. Full MLOps pipeline with MLflow and a full-stack app (FastAPI, React JS, Docker).
-
-**🔹 AssurAI Predictor – Insurance Recommendation (ML Full-Stack)**
-Machine learning system recommending the most suitable insurance policy for each client. **Tech:** Python (XGBoost, Scikit-learn), FastAPI, MLflow, React JS.
-
-**🔹 Biometric Authentication via Facial Recognition**
-Real-time facial recognition authentication system with an API. **Tech:** Python, OpenCV, Face-Recognition, Dlib, FastAPI, SQLite.
-
-*More projects coming soon 🚀*
-
----
-
-### 📜 Certifications
-
-- ☁️ AWS Certified AI Practitioner
-- 🟥 Red Hat Developer – Cloud Native
-- 🟥 Red Hat Certified System Administrator (RHCSA)
-- 🐍 Python Certified Associate Programmer (PCAP)
-
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hazem-neji-b01a15310/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:nejimohamed892@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">📫 Email: <code>nejimohamed892@gmail.com</code></p>
+nejimohamed892@gmail.com
